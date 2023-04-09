@@ -1,0 +1,4 @@
+Hello everyone. 
+I would like to create subtitles automatically and synchronize them with MoviePy. 
+The subtitles should be read from an SRT file. I have tried many things, but I can't manage to implement subtitles that follow the time codes. I don't know what to do anymore.
+
